@@ -1,7 +1,6 @@
 # FlyingSuperBoard
 <h3>🍃 팀프로젝트 / 보드게임 복합 커뮤니티</h3>
-<회원가입, 보드게임구매, 보드게임소개, 친구추가, 알림, 자유(익명)게시판 등 사용가능한 웹페이지>
-<br>
+
 <br>  
   
 ![image](https://github.com/leeyoueun/FlyingSuperBoard/assets/138740005/201dd549-7799-4402-94de-71268a3ba9c1)
@@ -18,15 +17,45 @@
 ---
 ○ 개요
 
-1. 개발기간
-2. 개발인원
-3. 담당역할
-4. 구성설명
+1. 프로젝트 소개<br>
+   ◦ Spring Framework를 기반으로 회원가입, 보드게임구매, 보드게임소개, 친구추가, 알림, SNS, 친구추가, 자유(익명)게시판 등 사용가능한 웹페이지
+   
+2. 개발기간<br>
+   ◦ 설계 및 분석 : 23.05.19 - 23.05.25 (프로토타입, uml, db)
+   ◦ 기능 구현 : 2023.06.12 - 2023.07.27
+3. 개발인원<br>
+   ◦ 6인 
+4. 담당역할<br>
+   ◦ 로그인(카카오로그인)/ 아이디,비밀번호 찾기 / 이메일 인증 / 핸드폰 문자 인증 / 회원가입 / 마이페이지(계정 수정, 쿠폰함, 알림함, 보관함, 탈퇴)
 
 ---
-○ 개발환경,툴
-- 언어, 툴
-라이브러리,api
+○ 개발환경(툴, 라이브러리, api)
+- OS : Window 10
+  
+- Kit : JDK
+  
+- Server : Apache Tomcat 9.0
+   
+- 언어
+  - Java
+  - JavaScript
+        
+- Tool
+  - Eclipse
+  - Spring
+  - Oracle
+  - oracle sqldeveloper
+      
+- Library
+  - MyBatis
+  - JQuery
+  - Json
+  - Ajax
+  - BootStrap/CSS
+    
+- Open Source
+  - Naver developers
+  - KaKao developers
 
 ---
 ○ 담당기능
